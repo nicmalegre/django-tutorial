@@ -1,0 +1,7 @@
+body {
+    background: white url("images/cities.webp") no-repeat;
+}
+
+li a {
+    color: green;
+}
